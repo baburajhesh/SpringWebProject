@@ -16,6 +16,7 @@ import org.apache.commons.logging.LogFactory;
 
 import springapp.service.ProductManager;
 //Implementing the inventory controller
+//Author: Rajhesh Babu
 public class InventoryController implements Controller {
 
     protected final Log logger = LogFactory.getLog(getClass());
